@@ -1,0 +1,113 @@
+{
+ "tracks": {
+  "limit": 10,
+  "next": "https://api.spotify.com/v1/search?offset=10&limit=10&query=isrc%3AUSUG11904206&type=track&locale=es-ES,es;q%3D0.9,bg;q%3D0.8",
+  "offset": 0,
+  "previous": null,
+  "total": 11,
+  "items": [
+   {
+    "album": {
+     "album_type": "album",
+     "artists": [
+      {
+       "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+       "name": "The Weeknd",
+       "type": "artist",
+       "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+      }
+     ],
+     "id": "4yP0hdKOZPNshxUOjY0cZj",
+     "images": [
+      {
+       "height": 640,
+       "width": 640,
+       "url": "https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36"
+      }
+     ],
+     "is_playable": true,
+     "name": "After Hours",
+     "release_date": "2020-03-20",
+     "release_date_precision": "day",
+     "total_tracks": 14,
+     "type": "album",
+     "uri": "spotify:album:4yP0hdKOZPNshxUOjY0cZj"
+    },
+    "artists": [
+     {
+      "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+      "name": "The Weeknd",
+      "type": "artist",
+      "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+     }
+    ],
+    "disc_number": 1,
+    "duration_ms": 200040,
+    "explicit": false,
+    "external_ids": {
+     "isrc": "USUG11904206"
+    },
+    "id": "0VjIjW4GlUZAMYd2vXMi3b",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Blinding Lights",
+    "popularity": 91,
+    "preview_url": null,
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:0VjIjW4GlUZAMYd2vXMi3b"
+   },
+   {
+    "album": {
+     "album_type": "single",
+     "artists": [
+      {
+       "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+       "name": "The Weeknd",
+       "type": "artist",
+       "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+      }
+     ],
+     "id": "3sL9Myf7JF1k9TbrXE46ou",
+     "images": [
+      {
+       "height": 640,
+       "width": 640,
+       "url": "https://i.scdn.co/image/ab67616d0000b273a3eff72f62782fb589a492f9"
+      }
+     ],
+     "is_playable": true,
+     "name": "Blinding Lights",
+     "release_date": "2020-09-11",
+     "release_date_precision": "day",
+     "total_tracks": 4,
+     "type": "album",
+     "uri": "spotify:album:3sL9Myf7JF1k9TbrXE46ou"
+    },
+    "artists": [
+     {
+      "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+      "name": "The Weeknd",
+      "type": "artist",
+      "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+     }
+    ],
+    "disc_number": 1,
+    "duration_ms": 200045,
+    "explicit": false,
+    "external_ids": {
+     "isrc": "USUG11904206"
+    },
+    "id": "6qYkmqFsXbj8CQjAdbYz07",
+    "is_local": false,
+    "is_playable": true,
+    "name": "Blinding Lights",
+    "popularity": 65,
+    "preview_url": null,
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:6qYkmqFsXbj8CQjAdbYz07"
+   }
+  ]
+ }
+}

@@ -1,0 +1,82 @@
+[
+ {
+  "chartEntryData": {
+   "currentRank": 1,
+   "previousRank": 1,
+   "peakRank": 1,
+   "appearancesOnChart": 20,
+   "consecutiveAppearancesOnChart": 20,
+   "entryStatus": "NO_CHANGE",
+   "peakDate": "2026-04-23",
+   "entryRank": 1,
+   "entryDate": "2026-04-23"
+  },
+  "missingRequiredFields": false,
+  "trackMetadata": {
+   "trackName": "Celebrate Me",
+   "trackUri": "spotify:track:1UcCAYT16qXS2Tts2NdHhM",
+   "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02871c06954c6766c89ebbe0f7",
+   "artists": [
+    {
+     "name": "IngaRose",
+     "spotifyUri": "spotify:artist:6Nh6lQwzJsftDphRVG7AU1",
+     "externalUrl": ""
+    }
+   ],
+   "producers": [],
+   "labels": [
+    {
+     "name": "IngaRose",
+     "spotifyUri": "",
+     "externalUrl": ""
+    }
+   ],
+   "songWriters": [],
+   "releaseDate": "2026-03-31"
+  },
+  "chartDate": "latest",
+  "requestedDate": "latest",
+  "daysBack": 0
+ },
+ {
+  "chartEntryData": {
+   "currentRank": 2,
+   "previousRank": 2,
+   "peakRank": 2,
+   "appearancesOnChart": 2,
+   "consecutiveAppearancesOnChart": 2,
+   "entryStatus": "NO_CHANGE",
+   "peakDate": "2026-05-11",
+   "entryRank": 2,
+   "entryDate": "2026-05-11"
+  },
+  "missingRequiredFields": false,
+  "trackMetadata": {
+   "trackName": "STORM II",
+   "trackUri": "spotify:track:0FZd4IaxB12sUTKSUUGwWq",
+   "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02f5a3e8908f546883d245acc8",
+   "artists": [
+    {
+     "name": "GENER8ION",
+     "spotifyUri": "spotify:artist:5xXSrTidFvVRJmiam2Zh1o",
+     "externalUrl": ""
+    },
+    {
+     "name": "Yung Lean",
+     "spotifyUri": "spotify:artist:67lytN32YpUxiSeWlKfHJ3",
+     "externalUrl": ""
+    }
+   ],
+   "producers": [],
+   "labels": [
+    {
+     "name": "Iconoclast Music",
+     "spotifyUri": "",
+     "externalUrl": ""
+    }
+   ],
+   "songWriters": [],
+   "releaseDate": "2026-04-24"
+  }
+ }
+]

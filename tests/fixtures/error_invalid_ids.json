@@ -1,0 +1,13 @@
+{
+ "success": false,
+ "error": "Invalid or missing \"ids\"",
+ "message": "\"ids\" must be a comma-separated list of 22-character Spotify track ids (\"not_a_valid_id!!\" is not one).",
+ "code": "INVALID_PARAMETER",
+ "status": 400,
+ "status_code": 400,
+ "retryable": false,
+ "timestamp": "2026-11-01T20:00:56.773Z",
+ "param": "ids",
+ "example": "/spotify-data/tracks?ids=4cOdK2wGLETKBW3PvgPWqT",
+ "request_id": "7bd541e6-3fc4-4ce7-994d-9236b5a2efbf"
+}

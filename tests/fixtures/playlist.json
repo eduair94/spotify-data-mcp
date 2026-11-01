@@ -1,0 +1,30 @@
+{
+ "collaborative": false,
+ "description": "The hottest 50. Cover: Tame Impala",
+ "followers": {
+  "total": 33643846
+ },
+ "id": "37i9dQZF1DXcBWIGoYBM5M",
+ "images": [
+  {
+   "url": "https://i.scdn.co/image/ab67706f00000002960019ea66cba66a44fdd4c2",
+   "height": null,
+   "width": null
+  }
+ ],
+ "name": "Today’s Top Hits",
+ "owner": {
+  "display_name": "Spotify",
+  "id": "spotify",
+  "type": "user",
+  "uri": "spotify:user:spotify"
+ },
+ "public": true,
+ "snapshot_id": "AAAAAIT6ToT/+IebTegHazxc0z6HwIFk",
+ "tracks": {
+  "total": 50
+ },
+ "type": "playlist",
+ "uri": "spotify:playlist:37i9dQZF1DXcBWIGoYBM5M",
+ "source": "pathfinder-v2"
+}

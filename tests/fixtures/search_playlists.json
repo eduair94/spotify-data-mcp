@@ -1,0 +1,123 @@
+{
+ "playlists": {
+  "items": [
+   {
+    "__typename": "PlaylistResponseWrapper",
+    "data": {
+     "attributes": [
+      {
+       "key": "uri",
+       "value": "spotify:user:spotify:playlist:37i9dQZF1DWZjqjZMudx9T"
+      },
+      {
+       "key": "status",
+       "value": "PUBLISHED"
+      }
+     ],
+     "description": "De la Calle a la Cima con Daddy Yankee",
+     "format": "format-shows-shuffle",
+     "images": {
+      "items": [
+       {
+        "sources": [
+         {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f0000000292e0bc2996c3f5a7b0b1cd5d",
+          "width": null
+         }
+        ]
+       }
+      ]
+     },
+     "name": "MANSIÓN REGGAETÓN",
+     "ownerV2": {
+      "__typename": "UserResponseWrapper",
+      "data": {
+       "__typename": "User",
+       "avatar": {
+        "sources": [
+         {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67757000003b8255c25988a6ac314394d3fbf5",
+          "width": 64
+         },
+         {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab6775700000ee8555c25988a6ac314394d3fbf5",
+          "width": 300
+         }
+        ]
+       },
+       "name": "Spotify",
+       "socialHandle": null,
+       "uri": "spotify:user:spotify",
+       "username": "spotify"
+      }
+     },
+     "uri": "spotify:playlist:37i9dQZF1DWZjqjZMudx9T"
+    }
+   },
+   {
+    "__typename": "PlaylistResponseWrapper",
+    "data": {
+     "attributes": [
+      {
+       "key": "request_id",
+       "value": "ssp~065f3c7ca1cb5d694aa8897a6988ea070ea0"
+      },
+      {
+       "key": "cloud_artists_uris",
+       "value": "spotify:artist:1SupJlEpv7RS2tPNRaHViT,spotify:artist:790FomKkXshlbRYZFtlgla,spotify:artist:1i8SpTcr7yvPOmcqrbnVXY"
+      }
+     ],
+     "description": "<a href=spotify:playlist:37i9dQZF1EIXlA2rsT91im>Nicky Jam</a>, <a href=spotify:playlist:37i9dQZF1EIVxinojmNpvF>KAROL G</a>, <a href=spotify:playlist:37i9dQZF1EIXdZZ95jMwrq>Ozuna</a> and more",
+     "format": "topic-mix",
+     "images": {
+      "items": [
+       {
+        "sources": [
+         {
+          "height": null,
+          "url": "https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/topic/reggaeton/1SupJlEpv7RS2tPNRaHViT/en",
+          "width": null
+         }
+        ]
+       }
+      ]
+     },
+     "name": "Reggaeton Mix",
+     "ownerV2": {
+      "__typename": "UserResponseWrapper",
+      "data": {
+       "__typename": "User",
+       "avatar": {
+        "sources": [
+         {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67757000003b8255c25988a6ac314394d3fbf5",
+          "width": 64
+         },
+         {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab6775700000ee8555c25988a6ac314394d3fbf5",
+          "width": 300
+         }
+        ]
+       },
+       "name": "Spotify",
+       "socialHandle": null,
+       "uri": "spotify:user:spotify",
+       "username": "spotify"
+      }
+     },
+     "uri": "spotify:playlist:37i9dQZF1EQmg9rwHdCwFW"
+    }
+   }
+  ],
+  "pagingInfo": {
+   "limit": 2,
+   "nextOffset": 2
+  },
+  "totalCount": 201
+ }
+}

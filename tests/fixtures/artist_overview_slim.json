@@ -1,0 +1,752 @@
+{
+ "data": {
+  "artistUnion": {
+   "__typename": "Artist",
+   "discography": {
+    "albums": {
+     "totalCount": 8
+    },
+    "compilations": {
+     "totalCount": 0
+    },
+    "latest": null,
+    "popularReleasesAlbums": {
+     "totalCount": 20
+    },
+    "singles": {
+     "totalCount": 92
+    },
+    "topTracks": {
+     "items": [
+      {
+       "track": {
+        "albumOfTrack": {
+         "coverArt": {
+          "sources": [
+           {
+            "url": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411"
+           },
+           {
+            "url": "https://i.scdn.co/image/ab67616d00004851bbd45c8d36e0e045ef640411"
+           },
+           {
+            "url": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411"
+           }
+          ]
+         },
+         "uri": "spotify:album:5K79FLRUCSysQnVESLcTdb"
+        },
+        "artists": {
+         "items": [
+          {
+           "profile": {
+            "name": "Bad Bunny"
+           },
+           "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+          }
+         ]
+        },
+        "contentRating": {
+         "label": "EXPLICIT"
+        },
+        "discNumber": 1,
+        "duration": {
+         "totalMilliseconds": 237117
+        },
+        "id": "3sK8wGT43QFpWrvNQsrQya",
+        "name": "DtMF",
+        "playability": {
+         "playable": true,
+         "reason": "PLAYABLE"
+        },
+        "playcount": "2232856710",
+        "uri": "spotify:track:3sK8wGT43QFpWrvNQsrQya"
+       },
+       "uid": "9cbe5e7718b7f863df3f"
+      },
+      {
+       "track": {
+        "albumOfTrack": {
+         "coverArt": {
+          "sources": [
+           {
+            "url": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411"
+           },
+           {
+            "url": "https://i.scdn.co/image/ab67616d00004851bbd45c8d36e0e045ef640411"
+           },
+           {
+            "url": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411"
+           }
+          ]
+         },
+         "uri": "spotify:album:5K79FLRUCSysQnVESLcTdb"
+        },
+        "artists": {
+         "items": [
+          {
+           "profile": {
+            "name": "Bad Bunny"
+           },
+           "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+          }
+         ]
+        },
+        "contentRating": {
+         "label": "EXPLICIT"
+        },
+        "discNumber": 1,
+        "duration": {
+         "totalMilliseconds": 367725
+        },
+        "id": "2lTm559tuIvatlT1u0JYG2",
+        "name": "BAILE INoLVIDABLE",
+        "playability": {
+         "playable": true,
+         "reason": "PLAYABLE"
+        },
+        "playcount": "1824393082",
+        "uri": "spotify:track:2lTm559tuIvatlT1u0JYG2"
+       },
+       "uid": "c0dd80ced4dd0270f6b9"
+      },
+      {
+       "track": {
+        "albumOfTrack": {
+         "coverArt": {
+          "sources": [
+           {
+            "url": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411"
+           },
+           {
+            "url": "https://i.scdn.co/image/ab67616d00004851bbd45c8d36e0e045ef640411"
+           },
+           {
+            "url": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411"
+           }
+          ]
+         },
+         "uri": "spotify:album:5K79FLRUCSysQnVESLcTdb"
+        },
+        "artists": {
+         "items": [
+          {
+           "profile": {
+            "name": "Bad Bunny"
+           },
+           "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+          }
+         ]
+        },
+        "contentRating": {
+         "label": "EXPLICIT"
+        },
+        "discNumber": 1,
+        "duration": {
+         "totalMilliseconds": 204768
+        },
+        "id": "6J5kc12BW5HuP3d7C3vvx8",
+        "name": "EoO",
+        "playability": {
+         "playable": true,
+         "reason": "PLAYABLE"
+        },
+        "playcount": "1374933884",
+        "uri": "spotify:track:6J5kc12BW5HuP3d7C3vvx8"
+       },
+       "uid": "07da8bd8ed110cd2aa78"
+      },
+      {
+       "track": {
+        "albumOfTrack": {
+         "coverArt": {
+          "sources": [
+           {
+            "url": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411"
+           },
+           {
+            "url": "https://i.scdn.co/image/ab67616d00004851bbd45c8d36e0e045ef640411"
+           },
+           {
+            "url": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411"
+           }
+          ]
+         },
+         "uri": "spotify:album:5K79FLRUCSysQnVESLcTdb"
+        },
+        "artists": {
+         "items": [
+          {
+           "profile": {
+            "name": "Bad Bunny"
+           },
+           "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+          }
+         ]
+        },
+        "contentRating": {
+         "label": "NONE"
+        },
+        "discNumber": 1,
+        "duration": {
+         "totalMilliseconds": 183685
+        },
+        "id": "5TFD2bmFKGhoCRbX61nXY5",
+        "name": "NUEVAYoL",
+        "playability": {
+         "playable": true,
+         "reason": "PLAYABLE"
+        },
+        "playcount": "1557588936",
+        "uri": "spotify:track:5TFD2bmFKGhoCRbX61nXY5"
+       },
+       "uid": "e70b9f775ccee2a95c6b"
+      },
+      {
+       "track": {
+        "albumOfTrack": {
+         "coverArt": {
+          "sources": [
+           {
+            "url": "https://i.scdn.co/image/ab67616d00001e0249d694203245f241a1bcaa72"
+           },
+           {
+            "url": "https://i.scdn.co/image/ab67616d0000485149d694203245f241a1bcaa72"
+           },
+           {
+            "url": "https://i.scdn.co/image/ab67616d0000b27349d694203245f241a1bcaa72"
+           }
+          ]
+         },
+         "uri": "spotify:album:3RQQmkQEvNCY4prGKE6oc5"
+        },
+        "artists": {
+         "items": [
+          {
+           "profile": {
+            "name": "Bad Bunny"
+           },
+           "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+          }
+         ]
+        },
+        "contentRating": {
+         "label": "EXPLICIT"
+        },
+        "discNumber": 1,
+        "duration": {
+         "totalMilliseconds": 243716
+        },
+        "id": "1IHWl5LamUGEuP4ozKQSXZ",
+        "name": "Tití Me Preguntó",
+        "playability": {
+         "playable": true,
+         "reason": "PLAYABLE"
+        },
+        "playcount": "2424522209",
+        "uri": "spotify:track:1IHWl5LamUGEuP4ozKQSXZ"
+       },
+       "uid": "27afbf4d776532390843"
+      },
+      {
+       "track": {
+        "albumOfTrack": {
+         "coverArt": {
+          "sources": [
+           {
+            "url": "https://i.scdn.co/image/ab67616d00001e024891d9b25d8919448388f3bb"
+           },
+           {
+            "url": "https://i.scdn.co/image/ab67616d000048514891d9b25d8919448388f3bb"
+           },
+           {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734891d9b25d8919448388f3bb"
+           }
+          ]
+         },
+         "uri": "spotify:album:6ylFfzx32ICw4L1A7YWNLN"
+        },
+        "artists": {
+         "items": [
+          {
+           "profile": {
+            "name": "J Balvin"
+           },
+           "uri": "spotify:artist:1vyhD5VmyZ7KMfW5gqLgo5"
+          },
+          {
+           "profile": {
+            "name": "Bad Bunny"
+           },
+           "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+          }
+         ]
+        },
+        "contentRating": {
+         "label": "NONE"
+        },
+        "discNumber": 1,
+        "duration": {
+         "totalMilliseconds": 242573
+        },
+        "id": "0fea68AdmYNygeTGI4RC18",
+        "name": "LA CANCIÓN",
+        "playability": {
+         "playable": true,
+         "reason": "PLAYABLE"
+        },
+        "playcount": "2764282167",
+        "uri": "spotify:track:0fea68AdmYNygeTGI4RC18"
+       },
+       "uid": "ea512e9213140045167f"
+      },
+      {
+       "track": {
+        "albumOfTrack": {
+         "coverArt": {
+          "sources": [
+           {
+            "url": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411"
+           },
+           {
+            "url": "https://i.scdn.co/image/ab67616d00004851bbd45c8d36e0e045ef640411"
+           },
+           {
+            "url": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411"
+           }
+          ]
+         },
+         "uri": "spotify:album:5K79FLRUCSysQnVESLcTdb"
+        },
+        "artists": {
+         "items": [
+          {
+           "profile": {
+            "name": "Bad Bunny"
+           },
+           "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+          },
+          {
+           "profile": {
+            "name": "Omar Courtz"
+           },
+           "uri": "spotify:artist:3E12tRURRvPfHz0hAMCFYc"
+          },
+          {
+           "profile": {
+            "name": "Dei V"
+           },
+           "uri": "spotify:artist:2YRyPiW98bpkARAS4B3OQP"
+          }
+         ]
+        },
+        "contentRating": {
+         "label": "EXPLICIT"
+        },
+        "discNumber": 1,
+        "duration": {
+         "totalMilliseconds": 235336
+        },
+        "id": "7d6yK8v8J484SWH5prIQiE",
+        "name": "VeLDÁ",
+        "playability": {
+         "playable": true,
+         "reason": "PLAYABLE"
+        },
+        "playcount": "1032771424",
+        "uri": "spotify:track:7d6yK8v8J484SWH5prIQiE"
+       },
+       "uid": "737e89a6199bde81fb05"
+      },
+      {
+       "track": {
+        "albumOfTrack": {
+         "coverArt": {
+          "sources": [
+           {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a6224f2f93c0ab4b2e01b44b"
+           },
+           {
+            "url": "https://i.scdn.co/image/ab67616d00004851a6224f2f93c0ab4b2e01b44b"
+           },
+           {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a6224f2f93c0ab4b2e01b44b"
+           }
+          ]
+         },
+         "uri": "spotify:album:0aX0UXrHG2ceYIxTQcqJdA"
+        },
+        "artists": {
+         "items": [
+          {
+           "profile": {
+            "name": "Rauw Alejandro"
+           },
+           "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq"
+          },
+          {
+           "profile": {
+            "name": "Bad Bunny"
+           },
+           "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+          }
+         ]
+        },
+        "contentRating": {
+         "label": "EXPLICIT"
+        },
+        "discNumber": 1,
+        "duration": {
+         "totalMilliseconds": 191018
+        },
+        "id": "0l0vcZMU7AOeQmUIREoI2U",
+        "name": "Qué Pasaría...",
+        "playability": {
+         "playable": true,
+         "reason": "PLAYABLE"
+        },
+        "playcount": "1165055930",
+        "uri": "spotify:track:0l0vcZMU7AOeQmUIREoI2U"
+       },
+       "uid": "b3d9ccd2deb81d6f3f3e"
+      },
+      {
+       "track": {
+        "albumOfTrack": {
+         "coverArt": {
+          "sources": [
+           {
+            "url": "https://i.scdn.co/image/ab67616d00001e02f62aa1dd0b43f583418cd018"
+           },
+           {
+            "url": "https://i.scdn.co/image/ab67616d00004851f62aa1dd0b43f583418cd018"
+           },
+           {
+            "url": "https://i.scdn.co/image/ab67616d0000b273f62aa1dd0b43f583418cd018"
+           }
+          ]
+         },
+         "uri": "spotify:album:6kTizLfVRIbzMzT1tb7dex"
+        },
+        "artists": {
+         "items": [
+          {
+           "profile": {
+            "name": "Bad Bunny"
+           },
+           "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+          },
+          {
+           "profile": {
+            "name": "Ozuna"
+           },
+           "uri": "spotify:artist:1i8SpTcr7yvPOmcqrbnVXY"
+          },
+          {
+           "profile": {
+            "name": "Farruko"
+           },
+           "uri": "spotify:artist:329e4yvIujISKGKz1BZZbO"
+          },
+          {
+           "profile": {
+            "name": "Arcángel"
+           },
+           "uri": "spotify:artist:4SsVbpTthjScTS7U2hmr1X"
+          },
+          {
+           "profile": {
+            "name": "Ñengo Flow"
+           },
+           "uri": "spotify:artist:12vb80Km0Ew53ABfJOepVz"
+          },
+          {
+           "profile": {
+            "name": "DJ Luian"
+           },
+           "uri": "spotify:artist:64aJYyrXljOodnUG6jvhRD"
+          },
+          {
+           "profile": {
+            "name": "Mambo Kingz"
+           },
+           "uri": "spotify:artist:2T1aUibqR2QC2sINIDQOAK"
+          }
+         ]
+        },
+        "contentRating": {
+         "label": "EXPLICIT"
+        },
+        "discNumber": 1,
+        "duration": {
+         "totalMilliseconds": 286040
+        },
+        "id": "6C1RD7YQVvt3YQj0CmuTeu",
+        "name": "Diles",
+        "playability": {
+         "playable": true,
+         "reason": "PLAYABLE"
+        },
+        "playcount": "1511332347",
+        "uri": "spotify:track:6C1RD7YQVvt3YQj0CmuTeu"
+       },
+       "uid": "b00eabc760139613c96f"
+      },
+      {
+       "track": {
+        "albumOfTrack": {
+         "coverArt": {
+          "sources": [
+           {
+            "url": "https://i.scdn.co/image/ab67616d00001e0285970fcddb682441dfa7bcf7"
+           },
+           {
+            "url": "https://i.scdn.co/image/ab67616d0000485185970fcddb682441dfa7bcf7"
+           },
+           {
+            "url": "https://i.scdn.co/image/ab67616d0000b27385970fcddb682441dfa7bcf7"
+           }
+          ]
+         },
+         "uri": "spotify:album:6Zk9W9Ab3CnhttW5nBOUnY"
+        },
+        "artists": {
+         "items": [
+          {
+           "profile": {
+            "name": "Grupo Frontera"
+           },
+           "uri": "spotify:artist:6XkjpgcEsYab502Vr1bBeW"
+          },
+          {
+           "profile": {
+            "name": "Bad Bunny"
+           },
+           "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+          }
+         ]
+        },
+        "contentRating": {
+         "label": "NONE"
+        },
+        "discNumber": 1,
+        "duration": {
+         "totalMilliseconds": 194563
+        },
+        "id": "51Awtxah1bdEZCnUP3i70E",
+        "name": "un x100to",
+        "playability": {
+         "playable": true,
+         "reason": "PLAYABLE"
+        },
+        "playcount": "1640801605",
+        "uri": "spotify:track:51Awtxah1bdEZCnUP3i70E"
+       },
+       "uid": "a9e4fea884cf08cf2122"
+      }
+     ]
+    }
+   },
+   "id": "4q3ewBCX7sLwd24euuV69X",
+   "onPlatformReputationTrait": {
+    "verification": {
+     "isRegistered": true,
+     "isVerified": true
+    }
+   },
+   "preRelease": null,
+   "profile": {
+    "biography": {
+     "text": "Bad Bunny is a multi-platinum global recording artist and 7x GRAMMY®️ winner whose genre-defying sound has reshaped contemporary music and culture. Named Spotify’s most-streamed artist worldwide four separate years, becoming the only artist ever to top Spotify’s Global Wrapped list four times. His album &#34;DeBÍ TiRAR MáS FOToS&#34; was also named Spotify’s Global Top Album of that year.\n\n&#34;DeBÍ TiRAR MáS FOToS&#34; became the first fully Spanish-language album to win the GRAMMY®️ Award for Album of the Year, marking a historic milestone for Latin music on the global stage. That same year, he headlined the Super Bowl halftime show, bringing Spanish-language music to one of the largest broadcast audiences in the world.\n\nFrom record-breaking tours and a landmark Puerto Rico residency to redefining what global superstardom looks like, Bad Bunny continues to push boundaries, proving that language, genre and geography are no limitations.",
+     "type": "AUTOBIOGRAPHY"
+    },
+    "externalLinks": {
+     "items": [
+      {
+       "name": "FACEBOOK",
+       "url": "https://facebook.com/BadBunnyOfficial"
+      },
+      {
+       "name": "INSTAGRAM",
+       "url": "https://instagram.com/badbunnypr"
+      },
+      {
+       "name": "TIKTOK",
+       "url": "https://tiktok.com/@badbunny"
+      },
+      {
+       "name": "TWITTER",
+       "url": "https://twitter.com/sanbenito"
+      },
+      {
+       "name": "WHATSAPP",
+       "url": "https://whatsapp.com/channel/0029Va8GDEX9Bb5vtbvf2V3d"
+      }
+     ]
+    },
+    "name": "Bad Bunny",
+    "pinnedItem": null,
+    "playlistsV2": {
+     "items": [],
+     "totalCount": 0
+    }
+   },
+   "relatedContent": {
+    "relatedArtists": {
+     "items": [
+      {
+       "id": "1mcTU81TzQhprhouKaTkpq",
+       "profile": {
+        "name": "Rauw Alejandro"
+       },
+       "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq"
+      },
+      {
+       "id": "1vyhD5VmyZ7KMfW5gqLgo5",
+       "profile": {
+        "name": "J Balvin"
+       },
+       "uri": "spotify:artist:1vyhD5VmyZ7KMfW5gqLgo5"
+      },
+      {
+       "id": "0GM7qgcRCORpGnfcN2tCiB",
+       "profile": {
+        "name": "Tainy"
+       },
+       "uri": "spotify:artist:0GM7qgcRCORpGnfcN2tCiB"
+      },
+      {
+       "id": "6nVcHLIgY5pE2YCl8ubca1",
+       "profile": {
+        "name": "JHAYCO"
+       },
+       "uri": "spotify:artist:6nVcHLIgY5pE2YCl8ubca1"
+      },
+      {
+       "id": "1i8SpTcr7yvPOmcqrbnVXY",
+       "profile": {
+        "name": "Ozuna"
+       },
+       "uri": "spotify:artist:1i8SpTcr7yvPOmcqrbnVXY"
+      },
+      {
+       "id": "7iK8PXO48WeuP03g8YR51W",
+       "profile": {
+        "name": "Myke Towers"
+       },
+       "uri": "spotify:artist:7iK8PXO48WeuP03g8YR51W"
+      },
+      {
+       "id": "37230BxxYs9ksS7OkZw3IU",
+       "profile": {
+        "name": "Chencho Corleone"
+       },
+       "uri": "spotify:artist:37230BxxYs9ksS7OkZw3IU"
+      },
+      {
+       "id": "790FomKkXshlbRYZFtlgla",
+       "profile": {
+        "name": "KAROL G"
+       },
+       "uri": "spotify:artist:790FomKkXshlbRYZFtlgla"
+      },
+      {
+       "id": "1r4hJ1h58CWwUQe3MxPuau",
+       "profile": {
+        "name": "Maluma"
+       },
+       "uri": "spotify:artist:1r4hJ1h58CWwUQe3MxPuau"
+      },
+      {
+       "id": "4VMYDCV2IEDYJArk749S6m",
+       "profile": {
+        "name": "Daddy Yankee"
+       },
+       "uri": "spotify:artist:4VMYDCV2IEDYJArk749S6m"
+      },
+      {
+       "id": "2LRoIwlKmHjgvigdNGBHNo",
+       "profile": {
+        "name": "Feid"
+       },
+       "uri": "spotify:artist:2LRoIwlKmHjgvigdNGBHNo"
+      },
+      {
+       "id": "329e4yvIujISKGKz1BZZbO",
+       "profile": {
+        "name": "Farruko"
+       },
+       "uri": "spotify:artist:329e4yvIujISKGKz1BZZbO"
+      }
+     ],
+     "totalCount": 40
+    }
+   },
+   "sharingInfo": {
+    "shareId": "wwwK5aVMTqGCvvCjpiOZlw",
+    "shareUrl": "https://open.spotify.com/en/artist/4q3ewBCX7sLwd24euuV69X?si=wwwK5aVMTqGCvvCjpiOZlw"
+   },
+   "stats": {
+    "followers": 125769369,
+    "monthlyListeners": 90118373,
+    "topCities": {
+     "items": [
+      {
+       "city": "Mexico City",
+       "country": "MX",
+       "numberOfListeners": 4235102,
+       "region": "CMX"
+      },
+      {
+       "city": "Santiago",
+       "country": "CL",
+       "numberOfListeners": 2614958,
+       "region": "RM"
+      },
+      {
+       "city": "Bogotá",
+       "country": "CO",
+       "numberOfListeners": 2521017,
+       "region": "DC"
+      },
+      {
+       "city": "Lima",
+       "country": "PE",
+       "numberOfListeners": 2074651,
+       "region": "LMA"
+      },
+      {
+       "city": "Buenos Aires",
+       "country": "AR",
+       "numberOfListeners": 1718722,
+       "region": "C"
+      }
+     ]
+    },
+    "worldRank": 10
+   },
+   "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X",
+   "visuals": {
+    "avatarImage": {
+     "sources": [
+      {
+       "height": 640,
+       "url": "https://i.scdn.co/image/ab6761610000e5eb81f47f44084e0a09b5f0fa13",
+       "width": 640
+      },
+      {
+       "height": 160,
+       "url": "https://i.scdn.co/image/ab6761610000f17881f47f44084e0a09b5f0fa13",
+       "width": 160
+      },
+      {
+       "height": 320,
+       "url": "https://i.scdn.co/image/ab6761610000517481f47f44084e0a09b5f0fa13",
+       "width": 320
+      }
+     ]
+    }
+   }
+  }
+ }
+}

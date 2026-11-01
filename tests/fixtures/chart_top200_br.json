@@ -1,0 +1,220 @@
+[
+ {
+  "chartEntryData": {
+   "currentRank": 1,
+   "previousRank": 1,
+   "peakRank": 1,
+   "appearancesOnChart": 23,
+   "consecutiveAppearancesOnChart": 23,
+   "rankingMetric": {
+    "value": "2952028",
+    "type": "STREAMS"
+   },
+   "entryStatus": "NO_CHANGE",
+   "peakDate": "2026-10-13",
+   "entryRank": 2,
+   "entryDate": "2026-10-09"
+  },
+  "missingRequiredFields": false,
+  "trackMetadata": {
+   "trackName": "Pós - Ao Vivo",
+   "trackUri": "spotify:track:1uDn0nbzeGPVw97jp7SvzR",
+   "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02c5a6ec393f8a3827c3f3312e",
+   "artists": [
+    {
+     "name": "Felipe e Rodrigo",
+     "spotifyUri": "spotify:artist:7gZu6kPnY9enEi5FvgTO4F",
+     "externalUrl": ""
+    }
+   ],
+   "producers": [],
+   "labels": [
+    {
+     "name": "WM Brazil",
+     "spotifyUri": "",
+     "externalUrl": ""
+    }
+   ],
+   "songWriters": [],
+   "releaseDate": "2026-10-08"
+  },
+  "chartDate": "latest",
+  "requestedDate": "latest",
+  "daysBack": 0
+ },
+ {
+  "chartEntryData": {
+   "currentRank": 2,
+   "previousRank": 2,
+   "peakRank": 1,
+   "appearancesOnChart": 86,
+   "consecutiveAppearancesOnChart": 86,
+   "rankingMetric": {
+    "value": "2262834",
+    "type": "STREAMS"
+   },
+   "entryStatus": "NO_CHANGE",
+   "peakDate": "2026-09-17",
+   "entryRank": 200,
+   "entryDate": "2026-08-07"
+  },
+  "missingRequiredFields": false,
+  "trackMetadata": {
+   "trackName": "Postinho de Gasolina",
+   "trackUri": "spotify:track:4RuRAwMmuBxw4QsKeFVhxh",
+   "displayImageUri": "https://i.scdn.co/image/ab67616d00001e021752731e20851c0dc53c2b27",
+   "artists": [
+    {
+     "name": "João Gustavo e Murilo",
+     "spotifyUri": "spotify:artist:6xerOqBLmelL3xZNZkVbGl",
+     "externalUrl": ""
+    },
+    {
+     "name": "Grelo",
+     "spotifyUri": "spotify:artist:1eIYP01ZLPKEExhcV6xFgt",
+     "externalUrl": ""
+    }
+   ],
+   "producers": [],
+   "labels": [
+    {
+     "name": "Grannada Music",
+     "spotifyUri": "",
+     "externalUrl": ""
+    }
+   ],
+   "songWriters": [],
+   "releaseDate": "2026-10-08"
+  }
+ },
+ {
+  "chartEntryData": {
+   "currentRank": 3,
+   "previousRank": 3,
+   "peakRank": 3,
+   "appearancesOnChart": 16,
+   "consecutiveAppearancesOnChart": 16,
+   "rankingMetric": {
+    "value": "1459080",
+    "type": "STREAMS"
+   },
+   "entryStatus": "NO_CHANGE",
+   "peakDate": "2026-10-24",
+   "entryRank": 85,
+   "entryDate": "2026-10-16"
+  },
+  "missingRequiredFields": false,
+  "trackMetadata": {
+   "trackName": "Flash (Minha Mente) 💠",
+   "trackUri": "spotify:track:4mTwKZPVhgWs6olQWxtUEG",
+   "displayImageUri": "https://i.scdn.co/image/ab67616d00001e0274d0b1bff38ab6c67aaa0641",
+   "artists": [
+    {
+     "name": "Hugo & Guilherme",
+     "spotifyUri": "spotify:artist:1LIuN7ov1IBQDdLsU83ojl",
+     "externalUrl": ""
+    },
+    {
+     "name": "Zé Vaqueiro",
+     "spotifyUri": "spotify:artist:5K8Rmjmf4RZFffz94EmBRt",
+     "externalUrl": ""
+    }
+   ],
+   "producers": [],
+   "labels": [
+    {
+     "name": "WM Brazil",
+     "spotifyUri": "",
+     "externalUrl": ""
+    }
+   ],
+   "songWriters": [],
+   "releaseDate": "2026-10-15"
+  }
+ },
+ {
+  "chartEntryData": {
+   "currentRank": 4,
+   "previousRank": 4,
+   "peakRank": 3,
+   "appearancesOnChart": 43,
+   "consecutiveAppearancesOnChart": 43,
+   "rankingMetric": {
+    "value": "1249740",
+    "type": "STREAMS"
+   },
+   "entryStatus": "NO_CHANGE",
+   "peakDate": "2026-10-14",
+   "entryRank": 89,
+   "entryDate": "2026-09-19"
+  },
+  "missingRequiredFields": false,
+  "trackMetadata": {
+   "trackName": "Mega Hair - Ao Vivo",
+   "trackUri": "spotify:track:6ad36mVIDEoBOwhnlnjhcl",
+   "displayImageUri": "https://i.scdn.co/image/ab67616d00001e028ba8fe91e4766b0ea9121968",
+   "artists": [
+    {
+     "name": "Netto Brito",
+     "spotifyUri": "spotify:artist:1slHyPE5gIYlHAKLiLv9PU",
+     "externalUrl": ""
+    },
+    {
+     "name": "Luan Pereira",
+     "spotifyUri": "spotify:artist:5kVgcCdPbeUwxBqWxi2Ktl",
+     "externalUrl": ""
+    }
+   ],
+   "producers": [],
+   "labels": [
+    {
+     "name": "WM Brazil",
+     "spotifyUri": "",
+     "externalUrl": ""
+    }
+   ],
+   "songWriters": [],
+   "releaseDate": "2026-10-15"
+  }
+ },
+ {
+  "chartEntryData": {
+   "currentRank": 5,
+   "previousRank": 5,
+   "peakRank": 1,
+   "appearancesOnChart": 205,
+   "consecutiveAppearancesOnChart": 205,
+   "rankingMetric": {
+    "value": "1244691",
+    "type": "STREAMS"
+   },
+   "entryStatus": "NO_CHANGE",
+   "peakDate": "2026-09-12",
+   "entryRank": 38,
+   "entryDate": "2026-04-10"
+  },
+  "missingRequiredFields": false,
+  "trackMetadata": {
+   "trackName": "Cadeira Cativa - Ao Vivo",
+   "trackUri": "spotify:track:27BcWN9G2MxGBXvC0tEKkN",
+   "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02ede6a29e3b312fba44c9c8f9",
+   "artists": [
+    {
+     "name": "Zé Neto & Cristiano",
+     "spotifyUri": "spotify:artist:487N2T9nIPEHrlTZLL3SQs",
+     "externalUrl": ""
+    }
+   ],
+   "producers": [],
+   "labels": [
+    {
+     "name": "Som Livre",
+     "spotifyUri": "",
+     "externalUrl": ""
+    }
+   ],
+   "songWriters": [],
+   "releaseDate": "2026-09-03"
+  }
+ }
+]

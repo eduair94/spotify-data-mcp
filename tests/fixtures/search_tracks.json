@@ -1,0 +1,198 @@
+{
+ "tracks": [
+  {
+   "__typename": "TrackResponseWrapper",
+   "data": {
+    "albumOfTrack": {
+     "coverArt": {
+      "sources": [
+       {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411",
+        "width": 300
+       },
+       {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851bbd45c8d36e0e045ef640411",
+        "width": 64
+       },
+       {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+        "width": 640
+       }
+      ]
+     },
+     "id": "5K79FLRUCSysQnVESLcTdb",
+     "name": "DeBÍ TiRAR MáS FOToS",
+     "uri": "spotify:album:5K79FLRUCSysQnVESLcTdb"
+    },
+    "artists": {
+     "items": [
+      {
+       "onPlatformReputationTrait": {
+        "verification": {
+         "aiPersona": null
+        }
+       },
+       "profile": {
+        "name": "Bad Bunny"
+       },
+       "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+      }
+     ]
+    },
+    "contentRating": {
+     "label": "EXPLICIT"
+    },
+    "duration": {
+     "totalMilliseconds": 237117
+    },
+    "id": "3sK8wGT43QFpWrvNQsrQya",
+    "trackMediaType": "AUDIO",
+    "name": "DtMF",
+    "playability": {
+     "playable": true,
+     "reason": "PLAYABLE"
+    },
+    "uri": "spotify:track:3sK8wGT43QFpWrvNQsrQya",
+    "playcount": 2232856710
+   }
+  },
+  {
+   "__typename": "TrackResponseWrapper",
+   "data": {
+    "albumOfTrack": {
+     "coverArt": {
+      "sources": [
+       {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0249d694203245f241a1bcaa72",
+        "width": 300
+       },
+       {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485149d694203245f241a1bcaa72",
+        "width": 64
+       },
+       {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27349d694203245f241a1bcaa72",
+        "width": 640
+       }
+      ]
+     },
+     "id": "3RQQmkQEvNCY4prGKE6oc5",
+     "name": "Un Verano Sin Ti",
+     "uri": "spotify:album:3RQQmkQEvNCY4prGKE6oc5"
+    },
+    "artists": {
+     "items": [
+      {
+       "onPlatformReputationTrait": {
+        "verification": {
+         "aiPersona": null
+        }
+       },
+       "profile": {
+        "name": "Bad Bunny"
+       },
+       "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+      }
+     ]
+    },
+    "contentRating": {
+     "label": "EXPLICIT"
+    },
+    "duration": {
+     "totalMilliseconds": 243716
+    },
+    "id": "1IHWl5LamUGEuP4ozKQSXZ",
+    "trackMediaType": "AUDIO",
+    "name": "Tití Me Preguntó",
+    "playability": {
+     "playable": true,
+     "reason": "PLAYABLE"
+    },
+    "uri": "spotify:track:1IHWl5LamUGEuP4ozKQSXZ",
+    "playcount": 2424522209
+   }
+  },
+  {
+   "__typename": "TrackResponseWrapper",
+   "data": {
+    "albumOfTrack": {
+     "coverArt": {
+      "sources": [
+       {
+        "height": 720,
+        "url": "https://i.scdn.co/image/ab6742d3000053b7821abb95d88dcb7fd94d79f8",
+        "width": 1280
+       },
+       {
+        "height": 360,
+        "url": "https://i.scdn.co/image/ab6742d3000052b7821abb95d88dcb7fd94d79f8",
+        "width": 640
+       },
+       {
+        "height": 720,
+        "url": "https://i.scdn.co/image/ab6742d3000053b7821abb95d88dcb7fd94d79f8",
+        "width": 1280
+       }
+      ]
+     },
+     "id": "6sGmKdCKNPwEPMexGSS93j",
+     "name": "Die With a Smile (Live)",
+     "uri": "spotify:album:6sGmKdCKNPwEPMexGSS93j"
+    },
+    "artists": {
+     "items": [
+      {
+       "onPlatformReputationTrait": {
+        "verification": {
+         "aiPersona": null
+        }
+       },
+       "profile": {
+        "name": "Bad Bunny"
+       },
+       "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+      },
+      {
+       "onPlatformReputationTrait": {
+        "verification": {
+         "aiPersona": null
+        }
+       },
+       "profile": {
+        "name": "Lady Gaga"
+       },
+       "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms"
+      }
+     ]
+    },
+    "contentRating": {
+     "label": "NONE"
+    },
+    "duration": {
+     "totalMilliseconds": 78378
+    },
+    "id": "16MQOmRYNMGlg1aTlQwRwC",
+    "trackMediaType": "VIDEO",
+    "name": "Die With a Smile - Live",
+    "playability": {
+     "playable": true,
+     "reason": "PLAYABLE"
+    },
+    "uri": "spotify:track:16MQOmRYNMGlg1aTlQwRwC",
+    "playcount": 4300615
+   }
+  }
+ ],
+ "include_status": {
+  "playcount": {
+   "requested": 3,
+   "resolved": 3
+  }
+ }
+}

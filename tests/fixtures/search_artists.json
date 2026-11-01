@@ -1,0 +1,119 @@
+{
+ "artists": {
+  "items": [
+   {
+    "__typename": "ArtistResponseWrapper",
+    "data": {
+     "onPlatformReputationTrait": {
+      "verification": {
+       "aiPersona": null,
+       "isVerified": true
+      }
+     },
+     "profile": {
+      "name": "Bad Bunny"
+     },
+     "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X",
+     "visuals": {
+      "avatarImage": {
+       "sources": [
+        {
+         "height": 640,
+         "url": "https://i.scdn.co/image/ab6761610000e5eb81f47f44084e0a09b5f0fa13",
+         "width": 640
+        },
+        {
+         "height": 160,
+         "url": "https://i.scdn.co/image/ab6761610000f17881f47f44084e0a09b5f0fa13",
+         "width": 160
+        },
+        {
+         "height": 320,
+         "url": "https://i.scdn.co/image/ab6761610000517481f47f44084e0a09b5f0fa13",
+         "width": 320
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
+    "__typename": "ArtistResponseWrapper",
+    "data": {
+     "onPlatformReputationTrait": {
+      "verification": {
+       "aiPersona": null,
+       "isVerified": true
+      }
+     },
+     "profile": {
+      "name": "Daddy Yankee"
+     },
+     "uri": "spotify:artist:4VMYDCV2IEDYJArk749S6m",
+     "visuals": {
+      "avatarImage": {
+       "sources": [
+        {
+         "height": 640,
+         "url": "https://i.scdn.co/image/ab6761610000e5ebd6ee4b8b4fa395cb71122bcb",
+         "width": 640
+        },
+        {
+         "height": 160,
+         "url": "https://i.scdn.co/image/ab6761610000f178d6ee4b8b4fa395cb71122bcb",
+         "width": 160
+        },
+        {
+         "height": 320,
+         "url": "https://i.scdn.co/image/ab67616100005174d6ee4b8b4fa395cb71122bcb",
+         "width": 320
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
+    "__typename": "ArtistResponseWrapper",
+    "data": {
+     "onPlatformReputationTrait": {
+      "verification": {
+       "aiPersona": null,
+       "isVerified": false
+      }
+     },
+     "profile": {
+      "name": "Milky Bunny"
+     },
+     "uri": "spotify:artist:2KIBBJxjAWfPCGMH0WgjVM",
+     "visuals": {
+      "avatarImage": {
+       "sources": [
+        {
+         "height": 640,
+         "url": "https://i.scdn.co/image/ab67616d0000b273dc5ea9fd0b2961324e60f5ec",
+         "width": 640
+        },
+        {
+         "height": 64,
+         "url": "https://i.scdn.co/image/ab67616d00004851dc5ea9fd0b2961324e60f5ec",
+         "width": 64
+        },
+        {
+         "height": 300,
+         "url": "https://i.scdn.co/image/ab67616d00001e02dc5ea9fd0b2961324e60f5ec",
+         "width": 300
+        }
+       ]
+      }
+     }
+    }
+   }
+  ],
+  "pagingInfo": {
+   "limit": 3,
+   "nextOffset": 3
+  },
+  "totalCount": 124
+ }
+}

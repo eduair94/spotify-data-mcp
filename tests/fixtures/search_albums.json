@@ -1,0 +1,114 @@
+{
+ "albums": {
+  "items": [
+   {
+    "__typename": "AlbumResponseWrapper",
+    "data": {
+     "artists": {
+      "items": [
+       {
+        "onPlatformReputationTrait": {
+         "verification": {
+          "aiPersona": null
+         }
+        },
+        "profile": {
+         "name": "Bad Bunny"
+        },
+        "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+       }
+      ]
+     },
+     "coverArt": {
+      "sources": [
+       {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0249d694203245f241a1bcaa72",
+        "width": 300
+       },
+       {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485149d694203245f241a1bcaa72",
+        "width": 64
+       },
+       {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27349d694203245f241a1bcaa72",
+        "width": 640
+       }
+      ]
+     },
+     "date": {
+      "year": 2022
+     },
+     "isAlbumPreRelease": false,
+     "name": "Un Verano Sin Ti",
+     "playability": {
+      "playable": true,
+      "reason": "PLAYABLE"
+     },
+     "preReleaseEndDateTime": null,
+     "type": "ALBUM",
+     "uri": "spotify:album:3RQQmkQEvNCY4prGKE6oc5"
+    }
+   },
+   {
+    "__typename": "AlbumResponseWrapper",
+    "data": {
+     "artists": {
+      "items": [
+       {
+        "onPlatformReputationTrait": {
+         "verification": {
+          "aiPersona": null
+         }
+        },
+        "profile": {
+         "name": "Grupo Contento"
+        },
+        "uri": "spotify:artist:0iKJS0FHJD108zFgKAhSYY"
+       }
+      ]
+     },
+     "coverArt": {
+      "sources": [
+       {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02e3c07ecc9a246ad30a30fe60",
+        "width": 300
+       },
+       {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851e3c07ecc9a246ad30a30fe60",
+        "width": 64
+       },
+       {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273e3c07ecc9a246ad30a30fe60",
+        "width": 640
+       }
+      ]
+     },
+     "date": {
+      "year": 2026
+     },
+     "isAlbumPreRelease": false,
+     "name": "Un Verano Sin Ti (Salsa Versión)",
+     "playability": {
+      "playable": true,
+      "reason": "PLAYABLE"
+     },
+     "preReleaseEndDateTime": null,
+     "type": "ALBUM",
+     "uri": "spotify:album:3ksGkgLTAKABLYLUMxqXYu"
+    }
+   }
+  ],
+  "pagingInfo": {
+   "limit": 2,
+   "nextOffset": 2
+  },
+  "totalCount": 151,
+  "__typename": "AlbumOrPrereleasePage"
+ }
+}

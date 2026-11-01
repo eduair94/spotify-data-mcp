@@ -1,0 +1,453 @@
+{
+ "artists": [
+  {
+   "followers": {
+    "total": 129164344
+   },
+   "genres": [],
+   "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+   "images": [
+    {
+     "url": "https://i.scdn.co/image/ab6761610000e5ebc1719ac9e6a75c1c25835018",
+     "height": 640,
+     "width": 640
+    },
+    {
+     "url": "https://i.scdn.co/image/ab67616100005174c1719ac9e6a75c1c25835018",
+     "height": 320,
+     "width": 320
+    },
+    {
+     "url": "https://i.scdn.co/image/ab6761610000f178c1719ac9e6a75c1c25835018",
+     "height": 160,
+     "width": 160
+    }
+   ],
+   "name": "The Weeknd",
+   "popularity": 96,
+   "type": "artist",
+   "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ",
+   "insights": {
+    "genres": [
+     {
+      "name": "pop",
+      "display_name": "Pop",
+      "weight": 0.8935,
+      "tracks": 10
+     },
+     {
+      "name": "r&b",
+      "display_name": "R&B",
+      "weight": 0.5246,
+      "tracks": 8
+     },
+     {
+      "name": "electropop",
+      "display_name": "Electropop",
+      "weight": 0.4871,
+      "tracks": 7
+     },
+     {
+      "name": "pop rap",
+      "display_name": "Pop Rap",
+      "weight": 0.453,
+      "tracks": 7
+     },
+     {
+      "name": "dance pop",
+      "display_name": "Dance Pop",
+      "weight": 0.4509,
+      "tracks": 6
+     },
+     {
+      "name": "synthpop",
+      "display_name": "Synthpop",
+      "weight": 0.2568,
+      "tracks": 4
+     },
+     {
+      "name": "dance",
+      "display_name": "Dance",
+      "weight": 0.1936,
+      "tracks": 3
+     },
+     {
+      "name": "electronic",
+      "display_name": "Electronic",
+      "weight": 0.1355,
+      "tracks": 2
+     },
+     {
+      "name": "hip hop",
+      "display_name": "Hip Hop",
+      "weight": 0.1334,
+      "tracks": 2
+     },
+     {
+      "name": "electro",
+      "display_name": "Electro",
+      "weight": 0.1276,
+      "tracks": 2
+     },
+     {
+      "name": "pop rock",
+      "display_name": "Pop Rock",
+      "weight": 0.1146,
+      "tracks": 2
+     },
+     {
+      "name": "edm",
+      "display_name": "EDM",
+      "weight": 0.0874,
+      "tracks": 1
+     },
+     {
+      "name": "electronica",
+      "display_name": "Electronica",
+      "weight": 0.0725,
+      "tracks": 1
+     },
+     {
+      "name": "rap",
+      "display_name": "Rap",
+      "weight": 0.0687,
+      "tracks": 1
+     },
+     {
+      "name": "k-pop",
+      "display_name": "K-Pop",
+      "weight": 0.0663,
+      "tracks": 1
+     }
+    ],
+    "moods": [
+     {
+      "name": "chill",
+      "display_name": "Chill",
+      "weight": 0.4037,
+      "tracks": 7
+     },
+     {
+      "name": "upbeat",
+      "display_name": "Upbeat",
+      "weight": 0.3566,
+      "tracks": 6
+     },
+     {
+      "name": "sensual",
+      "display_name": "Sensual",
+      "weight": 0.2819,
+      "tracks": 4
+     },
+     {
+      "name": "nostalgia",
+      "display_name": "Nostalgia",
+      "weight": 0.2194,
+      "tracks": 4
+     },
+     {
+      "name": "dark",
+      "display_name": "Dark",
+      "weight": 0.1774,
+      "tracks": 3
+     },
+     {
+      "name": "happy",
+      "display_name": "Happy",
+      "weight": 0.1669,
+      "tracks": 3
+     },
+     {
+      "name": "romantic",
+      "display_name": "Romantic",
+      "weight": 0.1571,
+      "tracks": 3
+     },
+     {
+      "name": "smooth",
+      "display_name": "Smooth",
+      "weight": 0.1542,
+      "tracks": 3
+     },
+     {
+      "name": "energetic",
+      "display_name": "Energetic",
+      "weight": 0.1276,
+      "tracks": 2
+     },
+     {
+      "name": "love",
+      "display_name": "Love",
+      "weight": 0.1195,
+      "tracks": 2
+     }
+    ],
+    "activities": [
+     {
+      "name": "gaming",
+      "display_name": "Gaming",
+      "weight": 0.2633,
+      "tracks": 5
+     }
+    ],
+    "bpm": {
+     "average": 126.7,
+     "min": 87.5,
+     "max": 186,
+     "tracks": 10
+    },
+    "country": "CA",
+    "top_track_ids": [
+     "7CyPwkp0oE8Ro9Dd5CUDjW",
+     "7MXVkk9YMctZqd1Srtv4MB",
+     "0VjIjW4GlUZAMYd2vXMi3b",
+     "2LBqCSwhJGcFQeTHMVGwy3",
+     "0FIDCNYYjNvPVimz5icugS",
+     "7fBv7CLKzipRk6EC6TWHOB",
+     "5QO79kh1waicV47BqGRL3g",
+     "5J4ZkQpzMUFojo1CtAZYpn",
+     "1oFAF1hdPOickyHgbuRjyX",
+     "0VO8gYVDSwM1Qdd2GsMoYK"
+    ],
+    "basis": "top_tracks"
+   },
+   "stats": {
+    "followers": 129164344,
+    "monthly_listeners": 116652125,
+    "world_rank": 3,
+    "top_cities": [
+     {
+      "city": "Mexico City",
+      "country": "MX",
+      "region": "CMX",
+      "listeners": 1637968
+     },
+     {
+      "city": "London",
+      "country": "GB",
+      "region": "ENG",
+      "listeners": 1543767
+     },
+     {
+      "city": "São Paulo",
+      "country": "BR",
+      "region": "SP",
+      "listeners": 1370453
+     }
+    ]
+   }
+  },
+  {
+   "followers": {
+    "total": 165713065
+   },
+   "genres": [],
+   "id": "06HL4z0CvFAxyc27GXpf02",
+   "images": [
+    {
+     "url": "https://i.scdn.co/image/ab6761610000e5eb12184bdd29403de54cb9d9c7",
+     "height": 640,
+     "width": 640
+    },
+    {
+     "url": "https://i.scdn.co/image/ab6761610000517412184bdd29403de54cb9d9c7",
+     "height": 320,
+     "width": 320
+    },
+    {
+     "url": "https://i.scdn.co/image/ab6761610000f17812184bdd29403de54cb9d9c7",
+     "height": 160,
+     "width": 160
+    }
+   ],
+   "name": "Taylor Swift",
+   "popularity": 99,
+   "type": "artist",
+   "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02",
+   "insights": {
+    "genres": [
+     {
+      "name": "pop",
+      "display_name": "Pop",
+      "weight": 0.9278,
+      "tracks": 10
+     },
+     {
+      "name": "children's music",
+      "display_name": "Children's Music",
+      "weight": 0.421,
+      "tracks": 6
+     },
+     {
+      "name": "dance pop",
+      "display_name": "Dance Pop",
+      "weight": 0.404,
+      "tracks": 6
+     },
+     {
+      "name": "bubblegum pop",
+      "display_name": "Bubblegum Pop",
+      "weight": 0.4015,
+      "tracks": 7
+     },
+     {
+      "name": "synthpop",
+      "display_name": "Synthpop",
+      "weight": 0.1045,
+      "tracks": 2
+     },
+     {
+      "name": "country",
+      "display_name": "Country",
+      "weight": 0.0784,
+      "tracks": 1
+     },
+     {
+      "name": "alternative pop",
+      "display_name": "Alternative Pop",
+      "weight": 0.073,
+      "tracks": 1
+     },
+     {
+      "name": "pop rock",
+      "display_name": "Pop Rock",
+      "weight": 0.0615,
+      "tracks": 1
+     },
+     {
+      "name": "electropop",
+      "display_name": "Electropop",
+      "weight": 0.0581,
+      "tracks": 1
+     },
+     {
+      "name": "easy listening",
+      "display_name": "Easy Listening",
+      "weight": 0.0561,
+      "tracks": 1
+     }
+    ],
+    "moods": [
+     {
+      "name": "upbeat",
+      "display_name": "Upbeat",
+      "weight": 0.5888,
+      "tracks": 9
+     },
+     {
+      "name": "happy",
+      "display_name": "Happy",
+      "weight": 0.5379,
+      "tracks": 9
+     },
+     {
+      "name": "cozy",
+      "display_name": "Cozy",
+      "weight": 0.1724,
+      "tracks": 3
+     },
+     {
+      "name": "energetic",
+      "display_name": "Energetic",
+      "weight": 0.1699,
+      "tracks": 3
+     },
+     {
+      "name": "nostalgia",
+      "display_name": "Nostalgia",
+      "weight": 0.1326,
+      "tracks": 2
+     },
+     {
+      "name": "love",
+      "display_name": "Love",
+      "weight": 0.1104,
+      "tracks": 2
+     },
+     {
+      "name": "emotional",
+      "display_name": "Emotional",
+      "weight": 0.106,
+      "tracks": 2
+     },
+     {
+      "name": "pump up",
+      "display_name": "Pump Up",
+      "weight": 0.1048,
+      "tracks": 2
+     },
+     {
+      "name": "moody",
+      "display_name": "Moody",
+      "weight": 0.0531,
+      "tracks": 1
+     },
+     {
+      "name": "spooky",
+      "display_name": "Spooky",
+      "weight": 0.052,
+      "tracks": 1
+     }
+    ],
+    "activities": [],
+    "bpm": {
+     "average": 120.6,
+     "min": 92,
+     "max": 170,
+     "tracks": 10
+    },
+    "country": "CA",
+    "top_track_ids": [
+     "11hcBLPtbMp4aQI6zGQLub",
+     "53iuhJlwXhSER5J2IYYv1W",
+     "2j7wI9QWrP8cjKDdOLVQTU",
+     "3gyJbNBTRVRdZDA1yO3clm",
+     "1p80LdxRV74UKvL8gnD7ky",
+     "3yWuTOYDztXjZxdE2cIRUa",
+     "7uxkx8HPBYkJKcimOyggUM",
+     "5uPaqMMt59KGrdKIitDRqa",
+     "1BxfuPKGuaTgP7aM0Bbdwr",
+     "4lIxdJw6W3Fg4vUIYCB0S5"
+    ],
+    "basis": "top_tracks"
+   },
+   "stats": {
+    "followers": 165713065,
+    "monthly_listeners": 105807677,
+    "world_rank": 5,
+    "top_cities": [
+     {
+      "city": "London",
+      "country": "GB",
+      "region": "ENG",
+      "listeners": 1672755
+     },
+     {
+      "city": "Quezon City",
+      "country": "PH",
+      "region": "00",
+      "listeners": 1444226
+     },
+     {
+      "city": "Jakarta",
+      "country": "ID",
+      "region": "JK",
+      "listeners": 1148125
+     }
+    ]
+   }
+  }
+ ],
+ "missing": [],
+ "unavailable": [],
+ "include_status": {
+  "insights": {
+   "requested": 2,
+   "resolved": 2
+  },
+  "stats": {
+   "requested": 2,
+   "resolved": 2
+  }
+ }
+}

@@ -1,0 +1,45 @@
+[
+ {
+  "chartEntryData": {
+   "currentRank": 1,
+   "previousRank": 1,
+   "peakRank": 1,
+   "appearancesOnChart": 1817,
+   "consecutiveAppearancesOnChart": 1817,
+   "entryStatus": "NO_CHANGE",
+   "peakDate": "2021-10-21",
+   "entryRank": 1,
+   "entryDate": "2021-10-21"
+  },
+  "missingRequiredFields": false,
+  "artistMetadata": {
+   "artistName": "Drake",
+   "artistUri": "spotify:artist:3TVXtAsR1Inumwj472S9r4",
+   "displayImageUri": "https://i.scdn.co/image/ab676161000051744293385d324db8558179afd9",
+   "socialMedia": []
+  },
+  "chartDate": "latest",
+  "requestedDate": "latest",
+  "daysBack": 0
+ },
+ {
+  "chartEntryData": {
+   "currentRank": 2,
+   "previousRank": 2,
+   "peakRank": 1,
+   "appearancesOnChart": 1817,
+   "consecutiveAppearancesOnChart": 1817,
+   "entryStatus": "NO_CHANGE",
+   "peakDate": "2021-11-08",
+   "entryRank": 2,
+   "entryDate": "2021-10-21"
+  },
+  "missingRequiredFields": false,
+  "artistMetadata": {
+   "artistName": "Taylor Swift",
+   "artistUri": "spotify:artist:06HL4z0CvFAxyc27GXpf02",
+   "displayImageUri": "https://i.scdn.co/image/ab6761610000517412184bdd29403de54cb9d9c7",
+   "socialMedia": []
+  }
+ }
+]

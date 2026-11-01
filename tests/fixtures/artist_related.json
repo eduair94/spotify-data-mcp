@@ -1,0 +1,53 @@
+{
+ "data": {
+  "artist": {
+   "id": "4q3ewBCX7sLwd24euuV69X",
+   "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X",
+   "profile": {
+    "name": "Bad Bunny"
+   },
+   "relatedContent": {
+    "relatedArtists": {
+     "totalCount": 40,
+     "items": [
+      {
+       "id": "1mcTU81TzQhprhouKaTkpq",
+       "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq",
+       "profile": {
+        "name": "Rauw Alejandro"
+       }
+      },
+      {
+       "id": "1vyhD5VmyZ7KMfW5gqLgo5",
+       "uri": "spotify:artist:1vyhD5VmyZ7KMfW5gqLgo5",
+       "profile": {
+        "name": "J Balvin"
+       }
+      },
+      {
+       "id": "0GM7qgcRCORpGnfcN2tCiB",
+       "uri": "spotify:artist:0GM7qgcRCORpGnfcN2tCiB",
+       "profile": {
+        "name": "Tainy"
+       }
+      },
+      {
+       "id": "6nVcHLIgY5pE2YCl8ubca1",
+       "uri": "spotify:artist:6nVcHLIgY5pE2YCl8ubca1",
+       "profile": {
+        "name": "JHAYCO"
+       }
+      },
+      {
+       "id": "1i8SpTcr7yvPOmcqrbnVXY",
+       "uri": "spotify:artist:1i8SpTcr7yvPOmcqrbnVXY",
+       "profile": {
+        "name": "Ozuna"
+       }
+      }
+     ]
+    }
+   }
+  }
+ }
+}

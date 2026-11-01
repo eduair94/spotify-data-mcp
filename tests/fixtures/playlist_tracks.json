@@ -1,0 +1,179 @@
+{
+ "items": [
+  {
+   "added_at": "2026-08-07T04:02:23.096Z",
+   "added_by": null,
+   "track": {
+    "id": "7bxaFZ1O3cHkgLKMsdC3xR",
+    "uri": "spotify:track:7bxaFZ1O3cHkgLKMsdC3xR",
+    "type": "track",
+    "name": "Loser",
+    "duration_ms": 223069,
+    "explicit": true,
+    "disc_number": 1,
+    "track_number": 4,
+    "playcount": 369156638,
+    "is_playable": true,
+    "artists": [
+     {
+      "name": "Tame Impala",
+      "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb",
+      "id": "5INjqkS1o8h1imAzPqGZBb",
+      "type": "artist"
+     }
+    ],
+    "album": {
+     "name": "Deadbeat",
+     "uri": "spotify:album:5WulAOx9ilWy1h8UGZ1gkI",
+     "id": "5WulAOx9ilWy1h8UGZ1gkI",
+     "type": "album",
+     "images": [
+      {
+       "url": "https://i.scdn.co/image/ab67616d00001e02208500450dcd0fd294d7bd3b",
+       "height": 300,
+       "width": 300
+      },
+      {
+       "url": "https://i.scdn.co/image/ab67616d00004851208500450dcd0fd294d7bd3b",
+       "height": 64,
+       "width": 64
+      },
+      {
+       "url": "https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b",
+       "height": 640,
+       "width": 640
+      }
+     ],
+     "artists": [
+      {
+       "name": "Tame Impala",
+       "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb",
+       "id": "5INjqkS1o8h1imAzPqGZBb",
+       "type": "artist"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "added_at": "2026-10-16T04:01:13.791Z",
+   "added_by": null,
+   "track": {
+    "id": "2sFepQNyl1WjpROruP8bJ0",
+    "uri": "spotify:track:2sFepQNyl1WjpROruP8bJ0",
+    "type": "track",
+    "name": "Housewife",
+    "duration_ms": 208810,
+    "explicit": false,
+    "disc_number": 1,
+    "track_number": 1,
+    "playcount": 105091653,
+    "is_playable": true,
+    "artists": [
+     {
+      "name": "Tate McRae",
+      "uri": "spotify:artist:45dkTj5sMRSjrmBSBeiHym",
+      "id": "45dkTj5sMRSjrmBSBeiHym",
+      "type": "artist"
+     }
+    ],
+    "album": {
+     "name": "Housewife",
+     "uri": "spotify:album:6JvmSyocXef7RZDZFaymNl",
+     "id": "6JvmSyocXef7RZDZFaymNl",
+     "type": "album",
+     "images": [
+      {
+       "url": "https://i.scdn.co/image/ab67616d00001e02f2d3185e46b03c243f60ce53",
+       "height": 300,
+       "width": 300
+      },
+      {
+       "url": "https://i.scdn.co/image/ab67616d00004851f2d3185e46b03c243f60ce53",
+       "height": 64,
+       "width": 64
+      },
+      {
+       "url": "https://i.scdn.co/image/ab67616d0000b273f2d3185e46b03c243f60ce53",
+       "height": 640,
+       "width": 640
+      }
+     ],
+     "artists": [
+      {
+       "name": "Tate McRae",
+       "uri": "spotify:artist:45dkTj5sMRSjrmBSBeiHym",
+       "id": "45dkTj5sMRSjrmBSBeiHym",
+       "type": "artist"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "added_at": "2026-09-11T04:01:53.033Z",
+   "added_by": null,
+   "track": {
+    "id": "70cHKK8bHAfJrOGVnfRG9J",
+    "uri": "spotify:track:70cHKK8bHAfJrOGVnfRG9J",
+    "type": "track",
+    "name": "Nicole Kidman",
+    "duration_ms": 181270,
+    "explicit": true,
+    "disc_number": 1,
+    "track_number": 2,
+    "playcount": 224884293,
+    "is_playable": true,
+    "artists": [
+     {
+      "name": "ADÉLA",
+      "uri": "spotify:artist:2qanRMyA5bNuTvz1dK45OP",
+      "id": "2qanRMyA5bNuTvz1dK45OP",
+      "type": "artist"
+     }
+    ],
+    "album": {
+     "name": "PRIMA",
+     "uri": "spotify:album:2yDFVH9CeOHt0sc9eI0aBs",
+     "id": "2yDFVH9CeOHt0sc9eI0aBs",
+     "type": "album",
+     "images": [
+      {
+       "url": "https://i.scdn.co/image/ab67616d00001e02ac9d5d5263e9f03802d6864c",
+       "height": 300,
+       "width": 300
+      },
+      {
+       "url": "https://i.scdn.co/image/ab67616d00004851ac9d5d5263e9f03802d6864c",
+       "height": 64,
+       "width": 64
+      },
+      {
+       "url": "https://i.scdn.co/image/ab67616d0000b273ac9d5d5263e9f03802d6864c",
+       "height": 640,
+       "width": 640
+      }
+     ],
+     "artists": [
+      {
+       "name": "ADÉLA",
+       "uri": "spotify:artist:2qanRMyA5bNuTvz1dK45OP",
+       "id": "2qanRMyA5bNuTvz1dK45OP",
+       "type": "artist"
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "limit": 3,
+ "offset": 0,
+ "total": 50,
+ "source": "pathfinder-v2",
+ "include_status": {
+  "playcount": {
+   "requested": 3,
+   "resolved": 3
+  }
+ }
+}

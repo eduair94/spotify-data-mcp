@@ -1,0 +1,152 @@
+{
+ "artists": [
+  {
+   "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+   },
+   "followers": {
+    "href": null,
+    "total": 125769369
+   },
+   "genres": [],
+   "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+   "id": "4q3ewBCX7sLwd24euuV69X",
+   "images": [
+    {
+     "url": "https://i.scdn.co/image/ab6761610000e5eb81f47f44084e0a09b5f0fa13",
+     "height": 640,
+     "width": 640
+    },
+    {
+     "url": "https://i.scdn.co/image/ab6761610000517481f47f44084e0a09b5f0fa13",
+     "height": 320,
+     "width": 320
+    },
+    {
+     "url": "https://i.scdn.co/image/ab6761610000f17881f47f44084e0a09b5f0fa13",
+     "height": 160,
+     "width": 160
+    }
+   ],
+   "name": "Bad Bunny",
+   "popularity": 98,
+   "type": "artist",
+   "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X",
+   "stats": {
+    "followers": 125769369,
+    "monthly_listeners": 90118373,
+    "world_rank": 10,
+    "top_cities": [
+     {
+      "city": "Mexico City",
+      "country": "MX",
+      "region": "CMX",
+      "listeners": 4235102
+     },
+     {
+      "city": "Santiago",
+      "country": "CL",
+      "region": "RM",
+      "listeners": 2614958
+     },
+     {
+      "city": "Bogotá",
+      "country": "CO",
+      "region": "DC",
+      "listeners": 2521017
+     },
+     {
+      "city": "Lima",
+      "country": "PE",
+      "region": "LMA",
+      "listeners": 2074651
+     },
+     {
+      "city": "Buenos Aires",
+      "country": "AR",
+      "region": "C",
+      "listeners": 1718722
+     }
+    ]
+   }
+  },
+  {
+   "external_urls": {
+    "spotify": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+   },
+   "followers": {
+    "href": null,
+    "total": 67951285
+   },
+   "genres": [],
+   "href": "https://api.spotify.com/v1/artists/790FomKkXshlbRYZFtlgla",
+   "id": "790FomKkXshlbRYZFtlgla",
+   "images": [
+    {
+     "url": "https://i.scdn.co/image/ab6761610000e5eb3869e286c9043f85e8e4bc06",
+     "height": 640,
+     "width": 640
+    },
+    {
+     "url": "https://i.scdn.co/image/ab676161000051743869e286c9043f85e8e4bc06",
+     "height": 320,
+     "width": 320
+    },
+    {
+     "url": "https://i.scdn.co/image/ab6761610000f1783869e286c9043f85e8e4bc06",
+     "height": 160,
+     "width": 160
+    }
+   ],
+   "name": "KAROL G",
+   "popularity": 93,
+   "type": "artist",
+   "uri": "spotify:artist:790FomKkXshlbRYZFtlgla",
+   "stats": {
+    "followers": 67951285,
+    "monthly_listeners": 69522984,
+    "world_rank": 27,
+    "top_cities": [
+     {
+      "city": "Mexico City",
+      "country": "MX",
+      "region": "CMX",
+      "listeners": 3509400
+     },
+     {
+      "city": "Bogotá",
+      "country": "CO",
+      "region": "DC",
+      "listeners": 2353806
+     },
+     {
+      "city": "Santiago",
+      "country": "CL",
+      "region": "RM",
+      "listeners": 2300193
+     },
+     {
+      "city": "Lima",
+      "country": "PE",
+      "region": "LMA",
+      "listeners": 1715712
+     },
+     {
+      "city": "Guadalajara",
+      "country": "MX",
+      "region": "JAL",
+      "listeners": 1394591
+     }
+    ]
+   }
+  }
+ ],
+ "missing": [],
+ "unavailable": [],
+ "include_status": {
+  "stats": {
+   "requested": 2,
+   "resolved": 2
+  }
+ }
+}

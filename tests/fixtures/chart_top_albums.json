@@ -1,0 +1,73 @@
+[
+ {
+  "chartEntryData": {
+   "currentRank": 1,
+   "previousRank": 2,
+   "peakRank": 1,
+   "appearancesOnChart": 17,
+   "consecutiveAppearancesOnChart": 17,
+   "entryStatus": "MOVED_UP",
+   "peakDate": "2026-06-18",
+   "entryRank": 1,
+   "entryDate": "2026-06-18"
+  },
+  "missingRequiredFields": false,
+  "albumMetadata": {
+   "albumName": "you seem pretty sad for a girl so in love",
+   "albumUri": "spotify:album:3WZZF72ihlKPZBS4zSsNHl",
+   "displayImageUri": "https://i.scdn.co/image/ab67616d00001e025cf234eeb7a2edf44bf64a46",
+   "artists": [
+    {
+     "name": "Olivia Rodrigo",
+     "spotifyUri": "spotify:artist:1McMsnEElThX1knmY4oliG",
+     "externalUrl": ""
+    }
+   ],
+   "labels": [
+    {
+     "name": "Olivia Rodrigo PS",
+     "spotifyUri": "",
+     "externalUrl": ""
+    }
+   ],
+   "releaseDate": "2026-06-12"
+  },
+  "chartDate": "latest",
+  "requestedDate": "latest",
+  "daysBack": 0
+ },
+ {
+  "chartEntryData": {
+   "currentRank": 2,
+   "previousRank": 1,
+   "peakRank": 1,
+   "appearancesOnChart": 2,
+   "consecutiveAppearancesOnChart": 2,
+   "entryStatus": "MOVED_DOWN",
+   "peakDate": "2026-10-01",
+   "entryRank": 1,
+   "entryDate": "2026-10-01"
+  },
+  "missingRequiredFields": false,
+  "albumMetadata": {
+   "albumName": "The Life of a Showgirl: The Encore",
+   "albumUri": "spotify:album:4hF2gTGuPYlykYuphDxi8J",
+   "displayImageUri": "https://i.scdn.co/image/ab67616d00001e02cf3de6b538d8b1ed73a4d5d1",
+   "artists": [
+    {
+     "name": "Taylor Swift",
+     "spotifyUri": "spotify:artist:06HL4z0CvFAxyc27GXpf02",
+     "externalUrl": ""
+    }
+   ],
+   "labels": [
+    {
+     "name": "Taylor Swift",
+     "spotifyUri": "",
+     "externalUrl": ""
+    }
+   ],
+   "releaseDate": "2026-09-25"
+  }
+ }
+]

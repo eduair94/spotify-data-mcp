@@ -1,0 +1,411 @@
+{
+ "tracks": [
+  {
+   "album": {
+    "album_type": "album",
+    "artists": [
+     {
+      "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+      "name": "The Weeknd",
+      "type": "artist",
+      "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+     }
+    ],
+    "id": "4yP0hdKOZPNshxUOjY0cZj",
+    "images": [
+     {
+      "url": "https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36",
+      "height": 640,
+      "width": 640
+     },
+     {
+      "url": "https://i.scdn.co/image/ab67616d00001e028863bc11d2aa12b54f5aeb36",
+      "height": 300,
+      "width": 300
+     },
+     {
+      "url": "https://i.scdn.co/image/ab67616d000048518863bc11d2aa12b54f5aeb36",
+      "height": 64,
+      "width": 64
+     }
+    ],
+    "name": "After Hours",
+    "release_date": "2020-03-20",
+    "release_date_precision": "day",
+    "total_tracks": 14,
+    "type": "album",
+    "uri": "spotify:album:4yP0hdKOZPNshxUOjY0cZj"
+   },
+   "artists": [
+    {
+     "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+     "name": "The Weeknd",
+     "type": "artist",
+     "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+    }
+   ],
+   "disc_number": 1,
+   "duration_ms": 200040,
+   "explicit": false,
+   "external_ids": {
+    "isrc": "USUG11904206"
+   },
+   "id": "0VjIjW4GlUZAMYd2vXMi3b",
+   "is_local": false,
+   "name": "Blinding Lights",
+   "popularity": 91,
+   "preview_url": "https://p.scdn.co/mp3-preview/51c08d92815cce4ac2de94a7335a430b81234624",
+   "track_number": 9,
+   "type": "track",
+   "uri": "spotify:track:0VjIjW4GlUZAMYd2vXMi3b",
+   "insights": {
+    "genres": [
+     {
+      "name": "pop",
+      "display_name": "Pop",
+      "weight": 0.9192
+     },
+     {
+      "name": "electropop",
+      "display_name": "Electropop",
+      "weight": 0.7569
+     },
+     {
+      "name": "dance pop",
+      "display_name": "Dance Pop",
+      "weight": 0.7551
+     },
+     {
+      "name": "synthpop",
+      "display_name": "Synthpop",
+      "weight": 0.6925
+     },
+     {
+      "name": "children's music",
+      "display_name": "Children's Music",
+      "weight": 0.6532
+     },
+     {
+      "name": "pop rap",
+      "display_name": "Pop Rap",
+      "weight": 0.5653
+     },
+     {
+      "name": "pop rock",
+      "display_name": "Pop Rock",
+      "weight": 0.5312
+     },
+     {
+      "name": "synthwave",
+      "display_name": "Synthwave",
+      "weight": 0.5291
+     },
+     {
+      "name": "dance",
+      "display_name": "Dance",
+      "weight": 0.4962
+     }
+    ],
+    "moods": [
+     {
+      "name": "upbeat",
+      "display_name": "Upbeat",
+      "weight": 0.7458
+     },
+     {
+      "name": "happy",
+      "display_name": "Happy",
+      "weight": 0.6518
+     },
+     {
+      "name": "spooky",
+      "display_name": "Spooky",
+      "weight": 0.6443
+     },
+     {
+      "name": "energetic",
+      "display_name": "Energetic",
+      "weight": 0.6266
+     },
+     {
+      "name": "fast",
+      "display_name": "Fast",
+      "weight": 0.5029
+     },
+     {
+      "name": "nostalgia",
+      "display_name": "Nostalgia",
+      "weight": 0.4845
+     }
+    ],
+    "activities": [
+     {
+      "name": "gaming",
+      "display_name": "Gaming",
+      "weight": 0.5074
+     }
+    ],
+    "tags": [],
+    "bpm": 171,
+    "credits": [
+     {
+      "name": "The Weeknd",
+      "role": "Main Artist",
+      "artist_id": "1Xyo4u8uXC1ZmMpatF05PJ"
+     },
+     {
+      "name": "Max Martin",
+      "role": "Composer",
+      "artist_id": "1rjeVTt9Ra1ldvN7SpeK0G"
+     },
+     {
+      "name": "Oscar Holter",
+      "role": "Composer",
+      "artist_id": "4lv9jAZPR9cdcJ7tIts7xk"
+     },
+     {
+      "name": "Abel Tesfaye",
+      "role": "Composer",
+      "artist_id": "56pImxBsOQTCASzJNLNEKN"
+     },
+     {
+      "name": "Ahmad Balshe",
+      "role": "Composer",
+      "artist_id": "1NwqDu5VcS4E47i7z1Zkqk"
+     },
+     {
+      "name": "Jason \"DaHeala\" Quenneville",
+      "role": "Composer",
+      "artist_id": "2U3FXTSXBJOC4ESbGNSH4p"
+     },
+     {
+      "name": "Max Martin",
+      "role": "Producer",
+      "artist_id": "1rjeVTt9Ra1ldvN7SpeK0G"
+     },
+     {
+      "name": "Max Martin",
+      "role": "Lyricist",
+      "artist_id": "1rjeVTt9Ra1ldvN7SpeK0G"
+     },
+     {
+      "name": "Oscar Holter",
+      "role": "Producer",
+      "artist_id": "4lv9jAZPR9cdcJ7tIts7xk"
+     },
+     {
+      "name": "Oscar Holter",
+      "role": "Lyricist",
+      "artist_id": "4lv9jAZPR9cdcJ7tIts7xk"
+     },
+     {
+      "name": "The Weeknd",
+      "role": "Producer",
+      "artist_id": "1Xyo4u8uXC1ZmMpatF05PJ"
+     },
+     {
+      "name": "Abel Tesfaye",
+      "role": "Lyricist",
+      "artist_id": "56pImxBsOQTCASzJNLNEKN"
+     },
+     {
+      "name": "Ahmad Balshe",
+      "role": "Lyricist",
+      "artist_id": "1NwqDu5VcS4E47i7z1Zkqk"
+     },
+     {
+      "name": "Jason \"DaHeala\" Quenneville",
+      "role": "Lyricist",
+      "artist_id": "2U3FXTSXBJOC4ESbGNSH4p"
+     }
+    ],
+    "has_lyrics": true,
+    "languages": [
+     "en"
+    ]
+   },
+   "playcount": 5643370541
+  },
+  {
+   "album": {
+    "album_type": "album",
+    "artists": [
+     {
+      "id": "0gxyHStUsqpMadRV0Di1Qt",
+      "name": "Rick Astley",
+      "type": "artist",
+      "uri": "spotify:artist:0gxyHStUsqpMadRV0Di1Qt"
+     }
+    ],
+    "id": "5Z9iiGl2FcIfa3BMiv6OIw",
+    "images": [
+     {
+      "url": "https://i.scdn.co/image/ab67616d0000b273baf89eb11ec7c657805d2da0",
+      "height": 640,
+      "width": 640
+     },
+     {
+      "url": "https://i.scdn.co/image/ab67616d00001e02baf89eb11ec7c657805d2da0",
+      "height": 300,
+      "width": 300
+     },
+     {
+      "url": "https://i.scdn.co/image/ab67616d00004851baf89eb11ec7c657805d2da0",
+      "height": 64,
+      "width": 64
+     }
+    ],
+    "name": "Whenever You Need Somebody",
+    "release_date": "1987-11-12",
+    "release_date_precision": "day",
+    "total_tracks": 10,
+    "type": "album",
+    "uri": "spotify:album:5Z9iiGl2FcIfa3BMiv6OIw"
+   },
+   "artists": [
+    {
+     "id": "0gxyHStUsqpMadRV0Di1Qt",
+     "name": "Rick Astley",
+     "type": "artist",
+     "uri": "spotify:artist:0gxyHStUsqpMadRV0Di1Qt"
+    }
+   ],
+   "disc_number": 1,
+   "duration_ms": 213573,
+   "explicit": false,
+   "external_ids": {
+    "isrc": "GBARL9300135"
+   },
+   "id": "0yNttAVwMr39qyODHNIkrY",
+   "is_local": false,
+   "name": "Never Gonna Give You Up",
+   "popularity": 6,
+   "preview_url": null,
+   "track_number": 1,
+   "type": "track",
+   "uri": "spotify:track:0yNttAVwMr39qyODHNIkrY",
+   "linked_from": {
+    "id": "4cOdK2wGLETKBW3PvgPWqT",
+    "type": "track",
+    "uri": "spotify:track:4cOdK2wGLETKBW3PvgPWqT"
+   },
+   "insights": {
+    "genres": [
+     {
+      "name": "synthpop",
+      "display_name": "Synthpop",
+      "weight": 0.7465
+     },
+     {
+      "name": "disco",
+      "display_name": "Disco",
+      "weight": 0.6847
+     },
+     {
+      "name": "pop rock",
+      "display_name": "Pop Rock",
+      "weight": 0.6131
+     },
+     {
+      "name": "new wave",
+      "display_name": "New Wave",
+      "weight": 0.602
+     },
+     {
+      "name": "dance pop",
+      "display_name": "Dance Pop",
+      "weight": 0.5343
+     }
+    ],
+    "moods": [
+     {
+      "name": "nostalgia",
+      "display_name": "Nostalgia",
+      "weight": 0.7208
+     },
+     {
+      "name": "happy",
+      "display_name": "Happy",
+      "weight": 0.5939
+     },
+     {
+      "name": "upbeat",
+      "display_name": "Upbeat",
+      "weight": 0.5674
+     },
+     {
+      "name": "classy",
+      "display_name": "Classy",
+      "weight": 0.4948
+     },
+     {
+      "name": "funny",
+      "display_name": "Funny",
+      "weight": 0.4852
+     }
+    ],
+    "activities": [],
+    "tags": [],
+    "bpm": 113.4,
+    "credits": [
+     {
+      "name": "Rick Astley",
+      "role": "Main Artist",
+      "artist_id": "0gxyHStUsqpMadRV0Di1Qt"
+     },
+     {
+      "name": "Mike Stock",
+      "role": "Composer",
+      "artist_id": "2JhG3QOWCDbDXNYhqFDSj1"
+     },
+     {
+      "name": "Matt Aitken",
+      "role": "Composer",
+      "artist_id": "3Y9dlLvKuiR1NPsNpjy011"
+     },
+     {
+      "name": "Pete Waterman",
+      "role": "Composer",
+      "artist_id": "1dIZcCJWHOeXY4JXtmZLIk"
+     },
+     {
+      "name": "Mike Stock",
+      "role": "Producer",
+      "artist_id": "2JhG3QOWCDbDXNYhqFDSj1"
+     },
+     {
+      "name": "Matt Aitken",
+      "role": "Producer",
+      "artist_id": "3Y9dlLvKuiR1NPsNpjy011"
+     },
+     {
+      "name": "Pete Waterman",
+      "role": "Producer",
+      "artist_id": "1dIZcCJWHOeXY4JXtmZLIk"
+     }
+    ],
+    "has_lyrics": true,
+    "languages": [
+     "en"
+    ]
+   },
+   "playcount": 1193772049
+  }
+ ],
+ "missing": [],
+ "unavailable": [],
+ "include_status": {
+  "insights": {
+   "requested": 2,
+   "resolved": 2
+  },
+  "total_tracks": {
+   "requested": 2,
+   "resolved": 2
+  },
+  "playcount": {
+   "requested": 2,
+   "resolved": 2
+  }
+ }
+}
