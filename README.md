@@ -63,12 +63,13 @@ downloads the package into a cached, isolated environment on first use. Replace
 
 ### No install: the hosted server (Claude.ai, ChatGPT, any remote MCP client)
 
-The same 12 tools are also hosted at `https://spotify-proxy.checkleaked.cc/mcp` (Streamable
+The same 12 tools, plus a `fetch` tool for ChatGPT, are also hosted at `https://spotify-proxy.checkleaked.cc/mcp` (Streamable
 HTTP). It takes keys from spotify.checkleaked.cc (the free trial or a paid key); RapidAPI keys
 work with the local server only.
 
-- **Claude.ai** (Settings → Connectors → Add custom connector) and **ChatGPT** (connectors in
-  developer mode) cannot send custom headers, so put the key in the URL:
+- **Claude.ai** (Settings → Connectors → Add custom connector) and **ChatGPT** (Settings →
+  Connectors; also usable in deep research, which calls its `search` and `fetch` tools) cannot
+  send custom headers, so put the key in the URL:
   `https://spotify-proxy.checkleaked.cc/mcp?key=your-api-key`. Treat that URL like a password.
 - Clients that can send headers use `https://spotify-proxy.checkleaked.cc/mcp` with
   `Authorization: Bearer your-api-key`. With Claude Code:
