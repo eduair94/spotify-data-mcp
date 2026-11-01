@@ -18,6 +18,8 @@ A free trial key needs no card.
 
 ```bash
 uvx checkleaked-spotify-mcp
+# or, with Docker
+docker run -i --rm -e SPOTIFY_API_KEY=your-api-key ghcr.io/eduair94/spotify-data-mcp
 ```
 
 > Unofficial. Not affiliated with, endorsed by or sponsored by Spotify.
