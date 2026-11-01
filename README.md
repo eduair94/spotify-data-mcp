@@ -14,7 +14,8 @@ moods and BPM**.
 
 It runs on your machine and calls the
 [CheckLeaked Spotify Data API](https://spotify.checkleaked.cc) with **your own API key**.
-A free trial key needs no card.
+A free trial key needs no card. Step-by-step guide:
+[spotify.checkleaked.cc/spotify-mcp-server](https://spotify.checkleaked.cc/spotify-mcp-server).
 
 ```bash
 uvx checkleaked-spotify-mcp
