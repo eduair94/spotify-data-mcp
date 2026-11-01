@@ -22,6 +22,15 @@ def test_versions_match():
     assert manifest["version"] == version
     assert manifest["packages"][0]["version"] == version
     assert manifest["packages"][0]["identifier"] == "checkleaked-spotify-mcp"
+    oci = [p for p in manifest["packages"] if p["registryType"] == "oci"]
+    assert [p["identifier"] for p in oci] == [f"ghcr.io/eduair94/spotify-data-mcp:{version}"]
+
+
+def test_image_label_names_the_server():
+    manifest = json.loads((ROOT / "server.json").read_text(encoding="utf-8"))
+    dockerfile = (ROOT / "Dockerfile").read_text(encoding="utf-8")
+    name = manifest["name"]
+    assert f'io.modelcontextprotocol.server.name="{name}"' in dockerfile
 
 
 def test_registry_name_is_in_the_readme():

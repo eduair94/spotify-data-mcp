@@ -13,3 +13,5 @@ First release.
 - RapidAPI (`spotify81`) and direct keys; direct keys are detected from their format.
 - Readable errors for a missing or invalid key, trial limits, rate limits, exhausted quotas
   and outages.
+- Also published as a container image, `ghcr.io/eduair94/spotify-data-mcp` (linux/amd64 and
+  linux/arm64).

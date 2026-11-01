@@ -138,6 +138,18 @@ Run `uvx checkleaked-spotify-mcp` (stdio transport) with `SPOTIFY_API_KEY` in it
 environment. Without `uvx`: `pip install checkleaked-spotify-mcp`, then run
 `checkleaked-spotify-mcp` (or `python -m checkleaked_spotify_mcp`).
 
+### Docker
+
+The same server is published as a container image (linux/amd64 and linux/arm64):
+
+```bash
+docker run -i --rm -e SPOTIFY_API_KEY=your-api-key ghcr.io/eduair94/spotify-data-mcp
+```
+
+In a client config, use `"command": "docker"` with
+`"args": ["run", "-i", "--rm", "-e", "SPOTIFY_API_KEY", "ghcr.io/eduair94/spotify-data-mcp"]`
+and `SPOTIFY_API_KEY` under `env`. Keep `-i`: the server speaks MCP over stdin and stdout.
+
 ## Configuration
 
 | Variable | Required | Description |

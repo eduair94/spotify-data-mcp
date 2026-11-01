@@ -35,6 +35,30 @@
           "choices": ["rapidapi", "direct"]
         }
       ]
+    },
+    {
+      "registryType": "oci",
+      "identifier": "ghcr.io/eduair94/spotify-data-mcp:0.1.0",
+      "runtimeHint": "docker",
+      "transport": {
+        "type": "stdio"
+      },
+      "environmentVariables": [
+        {
+          "name": "SPOTIFY_API_KEY",
+          "description": "Your API key: a free trial or paid key from https://spotify.checkleaked.cc/pricing, or a RapidAPI key for spotify81 (free Basic plan).",
+          "isRequired": true,
+          "isSecret": true,
+          "format": "string"
+        },
+        {
+          "name": "SPOTIFY_API_PROVIDER",
+          "description": "Where the key is from: 'rapidapi' (RapidAPI spotify81) or 'direct' (spotify.checkleaked.cc). Leave unset to detect it from the key.",
+          "isRequired": false,
+          "format": "string",
+          "choices": ["rapidapi", "direct"]
+        }
+      ]
     }
   ]
 }
