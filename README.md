@@ -60,6 +60,24 @@ The server is published on PyPI and runs with [`uvx`](https://docs.astral.sh/uv/
 downloads the package into a cached, isolated environment on first use. Replace
 `your-api-key` with your key in the snippets below.
 
+### No install: the hosted server (Claude.ai, ChatGPT, any remote MCP client)
+
+The same 12 tools are also hosted at `https://spotify-proxy.checkleaked.cc/mcp` (Streamable
+HTTP). It takes keys from spotify.checkleaked.cc (the free trial or a paid key); RapidAPI keys
+work with the local server only.
+
+- **Claude.ai** (Settings → Connectors → Add custom connector) and **ChatGPT** (connectors in
+  developer mode) cannot send custom headers, so put the key in the URL:
+  `https://spotify-proxy.checkleaked.cc/mcp?key=your-api-key`. Treat that URL like a password.
+- Clients that can send headers use `https://spotify-proxy.checkleaked.cc/mcp` with
+  `Authorization: Bearer your-api-key`. With Claude Code:
+
+  ```bash
+  claude mcp add --transport http spotify-data https://spotify-proxy.checkleaked.cc/mcp --header "Authorization: Bearer your-api-key"
+  ```
+
+Each tool call spends one request of your key, as a direct API call would.
+
 ### Claude Desktop
 
 Edit `claude_desktop_config.json` (Settings > Developer > Edit Config; macOS:
@@ -198,6 +216,10 @@ The server only talks to the API you configure (RapidAPI's `spotify81.p.rapidapi
 `spotify-proxy.checkleaked.cc`). It sends your key in the `x-rapidapi-key` header, stores
 nothing on disk and has no telemetry. Requests carry a `checkleaked-spotify-mcp/<version>`
 user agent.
+
+The hosted server passes each tool call to the same API with your key and keeps no
+conversation data. A key sent in the URL can appear in request logs like any URL, so prefer
+the `Authorization` header where your client supports it.
 
 ## Development
 

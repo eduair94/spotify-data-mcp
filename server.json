@@ -3,7 +3,7 @@
   "name": "cc.checkleaked/spotify-data",
   "title": "Spotify Data",
   "description": "Spotify play counts, monthly listeners, charts, artist stats, albums, playlists and ISRC lookup.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://spotify.checkleaked.cc",
   "repository": {
     "url": "https://github.com/eduair94/spotify-data-mcp",
@@ -14,7 +14,7 @@
       "registryType": "pypi",
       "registryBaseUrl": "https://pypi.org",
       "identifier": "checkleaked-spotify-mcp",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "runtimeHint": "uvx",
       "transport": {
         "type": "stdio"
@@ -38,7 +38,7 @@
     },
     {
       "registryType": "oci",
-      "identifier": "ghcr.io/eduair94/spotify-data-mcp:0.1.0",
+      "identifier": "ghcr.io/eduair94/spotify-data-mcp:0.1.1",
       "runtimeHint": "docker",
       "transport": {
         "type": "stdio"
@@ -57,6 +57,20 @@
           "isRequired": false,
           "format": "string",
           "choices": ["rapidapi", "direct"]
+        }
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://spotify-proxy.checkleaked.cc/mcp",
+      "headers": [
+        {
+          "name": "Authorization",
+          "description": "Bearer followed by your API key from https://spotify.checkleaked.cc/pricing (a free trial key works).",
+          "isRequired": true,
+          "isSecret": true
         }
       ]
     }

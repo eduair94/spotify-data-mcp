@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.1.1 - 2026-11-01
+
+- A hosted remote server at `https://spotify-proxy.checkleaked.cc/mcp` (Streamable HTTP) for
+  Claude.ai, ChatGPT and other remote MCP clients: the same 12 tools, keys from
+  spotify.checkleaked.cc by `Authorization: Bearer` or `?key=`. Listed in `server.json`.
+
 ## 0.1.0 - 2026-11-01
 
 First release.
