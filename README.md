@@ -214,6 +214,15 @@ All tools are read-only. Every id parameter accepts a bare id, a `spotify:` URI 
 | `get_chart` | Top 200, viral, top artists or top albums for a country (daily or weekly, latest or by date), optional play counts | up to 200 entries | 1 |
 | `isrc_lookup` | Spotify tracks for an ISRC | 1 ISRC | 1 |
 
+**Hosted server only** (not in this package yet): two daily-history tools over the API's
+`/history` endpoints, collected once a day since 2026-11-26 for every track and artist on the
+Spotify charts of any market ([guide](https://spotify.checkleaked.cc/spotify-stream-history-api)):
+
+| Tool | What it returns | Batch | Requests |
+| --- | --- | --- | --- |
+| `get_play_count_history` | Daily lifetime play counts and the streams gained each day, over the last 1-366 days | 10 tracks | 1 |
+| `get_artist_history` | Daily monthly listeners, followers and world rank with the day-over-day change | 10 artists | 1 |
+
 Outputs are compact JSON: ids, names, numbers and `open.spotify.com` URLs, with lists capped,
 so they fit in the model's context. Notes:
 

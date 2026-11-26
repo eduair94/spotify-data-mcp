@@ -1,5 +1,10 @@
 # Changelog
 
+## Hosted server, 2026-11-26
+
+- Two hosted-only tools, `get_play_count_history` and `get_artist_history`: daily series from
+  the API's `/history` endpoints (collected since 2026-11-26). The package itself is unchanged.
+
 ## Hosted server, 2026-11-25
 
 - The hosted server at `https://spotify-proxy.checkleaked.cc/mcp` also takes tool calls with
