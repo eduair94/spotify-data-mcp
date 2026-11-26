@@ -1,5 +1,11 @@
 # Changelog
 
+## Hosted server, 2026-11-25
+
+- The hosted server at `https://spotify-proxy.checkleaked.cc/mcp` also takes tool calls with
+  no key, paid per call over [x402](https://www.x402.org): $0.005 in USDC on Base, settled only
+  when the tool succeeds. The package itself is unchanged.
+
 ## 0.1.1 - 2026-11-01
 
 - A hosted remote server at `https://spotify-proxy.checkleaked.cc/mcp` (Streamable HTTP) for

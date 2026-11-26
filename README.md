@@ -81,6 +81,16 @@ subscription works too. Add `&provider=direct` or `&provider=rapidapi` to the UR
 
 Each tool call spends one request of your key, as a direct API call would.
 
+#### No key at all: pay per call with x402
+
+AI agents that carry a wallet can use the hosted server without a key. A `tools/call` sent
+with no key answers with an [x402](https://www.x402.org) payment request: **$0.005 in USDC on
+Base** (`eip155:8453`) per tool call, valid for two minutes. The client signs the transfer and
+repeats the call with it in `params._meta["x402/payment"]`; clients built on `@x402/mcp` do
+that step for you. The payment settles only if the tool succeeds, and the receipt comes back in
+`result._meta["x402/payment-response"]`. `initialize` and `tools/list` need neither a key nor
+a payment. For steady use a key costs less (a 20,000-request pack is $9).
+
 ### Claude Desktop
 
 Edit `claude_desktop_config.json` (Settings > Developer > Edit Config; macOS:
@@ -223,6 +233,10 @@ user agent.
 The hosted server passes each tool call to the same API with your key and keeps no
 conversation data. A key sent in the URL can appear in request logs like any URL, so prefer
 the `Authorization` header where your client supports it.
+
+A call paid with x402 carries a signed USDC transfer from your wallet: the facilitator
+(PayAI) sees it to verify and settle it, and once settled it is public on Base like any
+on-chain transfer.
 
 ## Development
 
